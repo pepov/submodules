@@ -1,3 +1,3 @@
-module github.com/go-modules-by-example/submodules
+module github.com/pepov/submodules
 
 go 1.12
